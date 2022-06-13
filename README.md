@@ -5,6 +5,6 @@ This is the sample repository for practice
 
 ___
 
-'''
+---
 print('Hello World')
-'''
+---
