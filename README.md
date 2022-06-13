@@ -1,10 +1,14 @@
-# Demo
-This is the sample repository for practice
-- Point 1
-- point 2
+# My repo for lastest porjects at insaid
 
-___
+## Here is the list of projects
 
----
-print('Hello World')
----
+-[Finance](http://https://github.com/siri32/Demo/tree/main/finance-project)
+-Accounting
+-Banking
+-Energy
+
+| Finance  | ![](https://raw.githubusercontent.com/siri32/Demo/main/images/Data-science.webp)  |
+| :------------: | :------------: |
+|  ![](https://raw.githubusercontent.com/siri32/Demo/main/images/Data-science.webp) |  Accounting |
+|Banking   |  ![](https://raw.githubusercontent.com/siri32/Demo/main/images/Data-science.webp) |
+|![](https://raw.githubusercontent.com/siri32/Demo/main/images/Data-science.webp)  |Energy   |
